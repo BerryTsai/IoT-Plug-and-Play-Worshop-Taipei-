@@ -1,6 +1,6 @@
 <font size="6">**IoT Plug and Play Workshop 課前準備**<font size="4">  
 請報名參加者於12/8需準備下列帳號及設備
-- 貴公司Azure帳號
+- 貴公司Azure Active Directory帳號
   > [!IMPORTANT]  
   > 若要在 [Azure 認證裝置入口網站](https://certify.azure.com/)上認證您的裝置，您必須完成下列步驟：
   > 1. 確定您的公司有使用工作或學校租使用者的 Azure Active Directory 帳戶。
@@ -30,7 +30,7 @@
 
 <font size="6">**Session-2 Azure 裝置認證流程演示**<font size="4">  
 - 參考資料  
-    [如何認證 IoT 隨插即用裝置](https://docs.microsoft.com/zh-tw/azure/iot-pnp/howto-certify-device#next-steps)
+    [如何認證 IoT 隨插即用裝置](https://docs.microsoft.com/zh-tw/azure/iot-pnp/howto-certify-device#next-steps)  
     [Azure IoT 認證裝置目錄](https://devicecatalog.azure.com/)
 
 - 工具  
