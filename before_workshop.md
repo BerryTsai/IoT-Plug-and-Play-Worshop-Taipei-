@@ -8,10 +8,15 @@
   > 3. 在您加入 MPN 之後，請登入 [Azure 認證裝置入口網站](https://certify.azure.com/) 。
   > 4. 檢查並簽署公司設定檔頁面面上的方案合約
 
+- 貴公司預計取得Azure IoT Plug and Play 認證之裝置
+  > [!NOTE]  
+  > 請先收集產品資料供申請Azure認證網站填寫
+  > - 請先完成裝置 Getstart 文件,[範例](https://github.com/Azure/azure-iot-device-ecosystem/blob/master/Azure_Certified_Device/Get_Started_Templates/IoT-Plug-and-Play/template-plug-and-play-getstarted.md)
+  > - 產品照片及產品介紹網址
+  > - 其他安規認證資料，CE FCC BSMI NCC CCC.....
+
 - Github 帳號
 - 需攜帶具有無線網路筆記型電腦
-- 貴公司預計取得Azure IoT Plug and Play 認證之裝置
-  
   
 <font size="6">**Session-1 Digital Twins Define Language 介紹及Model file 製作及發佈流程演示**<font size="4">  
 - 參考資料  
