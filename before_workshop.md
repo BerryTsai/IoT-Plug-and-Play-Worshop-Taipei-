@@ -37,5 +37,5 @@
     [Azure CLI for Azure IoT](https://docs.microsoft.com/zh-tw/cli/azure/azure-cli-reference-for-IoT)
     
     
-    Azure Sphere sample code
-    https://github.com/sha1painkiller/azs-pnp-workshop-2008
+
+- [Azure Sphere sample code](https://github.com/sha1painkiller/azs-pnp-workshop-2008)
