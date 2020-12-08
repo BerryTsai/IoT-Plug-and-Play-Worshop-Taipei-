@@ -1,1 +1,0 @@
-Copy of device model examples from https://github.com/Azure/iot-plugandplay-models/tree/main/dtmi/com/example
